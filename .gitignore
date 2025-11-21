@@ -2,3 +2,5 @@ node_modules
 public
 package-lock.json
 quartz/.quartz-cache
+quartz/static/gpa-processed.json
+data
