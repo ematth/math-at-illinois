@@ -21,14 +21,19 @@ Just edit the file directly and follow the steps above.
 ## Adding a Course
 Please follow the template given below. 
 
+> [!tip]
+> If you want to add a course that isn't already in the wiki, but don't know how to fill all the headers, please add the template, and fill out what you want to fill out. Leave `(blank)` under the headers you don't want to fill out. We want to accept as many contributions as possible (little or large)! 
+
+
 ```md
 ---
-title: class-name
+title: math###
 last-modified: YYYY-MM-DD
 tags:
     - example-tag-1
     - example-tag-2
     - example-tag-3
+course: MATH ###
 ---
 
 # Course Name (MATH###)
@@ -61,7 +66,7 @@ tags:
 ```
 
 ## Adding non course content
-For example a page on research/extracurricular/etc
+For example a page on research/extracurriculars/etc
 
 Currently there's no specific template for adding non-course content. However, please keep the pages informative and descriptive. If you're unsure about something, please ask within the #wiki channel on [Discord](https://discord.gg/Fds22YywnA).
 

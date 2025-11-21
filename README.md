@@ -6,7 +6,7 @@ This website is made with [Quartz](https://quartz.jzhao.xyz/)
 
 ## Contributing
 
-Coming soon :DDDDD
+Please view [here](https://github.com/3nya/math-at-illinois/blob/main/CONTRIBUTING.md) for details! 
 
 ## Build/run/preview the project locally
 Quartz requires at least [Node v22](https://nodejs.org/en) and npm v10.9.2 to function correctly. Ensure you have this installed on your machine before continuing.
