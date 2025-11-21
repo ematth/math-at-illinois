@@ -48,6 +48,8 @@ Mathematics and Computer Science, BS (Group I)
 
 Statistics, BS
 
+Statistics and Computer Science, BS
+
 Electrical Engineering, BS 
 
 Computer Engineering, BS
