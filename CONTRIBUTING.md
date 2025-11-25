@@ -15,6 +15,8 @@ General steps:
 
 # Specific Contributions
 
+> **Formatting**: for the most part, please follow the template given. Please try to link classes/other pages whenever possible! If the file doesn't exist yet, please link it anyways so it can be incorporated seamlessly when it is added. When linking a class, do `[[file-name|display-name]]`, for example: `[[math###|MATH###]]`. Replace `###` with the course title. The file name is usually the display name in all lowercase. 
+
 ## Fixing an Existing File
 Just edit the file directly and follow the steps above.
 
@@ -56,7 +58,13 @@ course: MATH ###
 
 ## General Advice
 
+(blank)
+
 ## General Postrequisites
+
+(blank)
+
+## Resources
 
 (blank)
 

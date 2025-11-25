@@ -39,6 +39,10 @@ While this class is technically self-contained, it is notoriously difficult with
 
 Taking Math 580 opens up the Math 58X sequence, that is Math 581, 582, 583, 584, 585, and 586, all of which go more into depth into specific concepts and techniques taught in 580. 
 
+## Resources 
+
+(blank)
+
 ### Recent Professors
 
 Abhishek Methuku, Jozsef Balogh

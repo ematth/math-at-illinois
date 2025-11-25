@@ -41,6 +41,10 @@ This class leans more towards computation-based rather than proof-based and has 
 
 [[math580|MATH580]]
 
+## Resources
+
+Introductory Combinatorics (Brualdi 5th edition)
+
 ### Recent Professors
 
 Alexander Yong

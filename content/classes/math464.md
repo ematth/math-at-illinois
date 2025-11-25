@@ -72,5 +72,9 @@ than reviewing STAT400 although reviewing it will not hurt at all.
 This class can be substituted for STAT420 for both the math minor, stat
 minor and the data optimization concentration for the mathematics major.
 
+## Resources
+
+(blank)
+
 ### Recent Professors 
 Alexey Stepanov, Susu Zhang, Feng Liang, Eren Kizildag, Joshua Agterberg, Yun Yang

@@ -38,6 +38,10 @@ This class will be heavily proof-based but less abstract than some other pure ma
 
 [[math580|MATH580]]
 
+## Resources
+
+(blank)
+
 ### Recent Professors
 
 Alexandr Kostochka
