@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math502
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 502
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Commutative Algebra (MATH502)
 
 ## Official Course Description
 

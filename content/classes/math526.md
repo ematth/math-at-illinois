@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math526
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 526
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Algebraic Topology II (MATH526)
 
 ## Official Course Description
 

@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math390
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 390
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Individual Study (MATH390)
 
 ## Official Course Description
 

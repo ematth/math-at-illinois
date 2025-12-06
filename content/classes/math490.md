@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math490
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 490
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Advanced Topics in Mathematics (MATH490)
 
 ## Official Course Description
 

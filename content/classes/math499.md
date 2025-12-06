@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math499
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 499
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Introduction Graduate Research (MATH499)
 
 ## Official Course Description
 

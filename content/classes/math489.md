@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math489
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 489
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Dynamics & Differential Eqns (MATH489)
 
 ## Official Course Description
 

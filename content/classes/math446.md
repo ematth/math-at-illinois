@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math446
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 446
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Applied Complex Variables (MATH446)
 
 ## Official Course Description
 

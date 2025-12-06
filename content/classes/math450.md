@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math450
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 450
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Numerical Analysis (MATH450)
 
 ## Official Course Description
 

@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math463
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 463
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Statistics and Probability I (MATH463)
 
 ## Official Course Description
 

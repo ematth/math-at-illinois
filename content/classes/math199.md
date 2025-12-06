@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math199
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 199
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Undergraduate Open Seminar (MATH199)
 
 ## Official Course Description
 

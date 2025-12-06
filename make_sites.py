@@ -1,11 +1,21 @@
---- 
-title: math314
+import os, pandas as pd
+
+courses = pd.read_csv('courses.csv')
+courses = courses.dropna()
+
+for index, row in courses.iterrows():
+    number = row['number']
+    title = row['title']
+
+    page = \
+    f"""--- 
+title: math{number}
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH {number}
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  {title} (MATH{number})
 
 ## Official Course Description
 
@@ -51,4 +61,12 @@ Mathematics Minor
 
 ### Recent Professors
 
-(blank)
+(blank)"""
+
+    # write page to file math{number}.md
+    # if file already exists, skip
+    if os.path.exists(f'content/classes/math{number}.md'):
+        continue
+    else:
+        with open(f'content/classes/math{number}.md', 'w') as f:
+            f.write(page)

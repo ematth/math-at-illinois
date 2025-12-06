@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math417
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 417
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Intro to Abstract Algebra (MATH417)
 
 ## Official Course Description
 

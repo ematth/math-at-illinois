@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math564
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 564
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Applied Stochastic Processes (MATH564)
 
 ## Official Course Description
 

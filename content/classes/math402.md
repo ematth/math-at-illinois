@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math402
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 402
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Non Euclidean Geometry (MATH402)
 
 ## Official Course Description
 

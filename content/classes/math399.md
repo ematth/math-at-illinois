@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math399
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 399
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Math/Actuarial Internship (MATH399)
 
 ## Official Course Description
 

@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math442
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 442
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Intro Partial Diff Equations (MATH442)
 
 ## Official Course Description
 

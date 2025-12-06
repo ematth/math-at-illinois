@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math554
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 554
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Linear Analysis and Partial Differential Equations (MATH554)
 
 ## Official Course Description
 

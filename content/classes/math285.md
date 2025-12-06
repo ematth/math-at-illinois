@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math285
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 285
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Intro Differential Equations (MATH285)
 
 ## Official Course Description
 

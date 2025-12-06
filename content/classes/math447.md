@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math447
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 447
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Real Variables (MATH447)
 
 ## Official Course Description
 

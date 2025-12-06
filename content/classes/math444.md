@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math444
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 444
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Elementary Real Analysis (MATH444)
 
 ## Official Course Description
 

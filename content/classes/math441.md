@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math441
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 441
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Differential Equations (MATH441)
 
 ## Official Course Description
 

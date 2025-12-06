@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math112
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 112
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Algebra (MATH112)
 
 ## Official Course Description
 

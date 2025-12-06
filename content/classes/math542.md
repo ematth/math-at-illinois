@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math542
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 542
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Complex Variables I (MATH542)
 
 ## Official Course Description
 

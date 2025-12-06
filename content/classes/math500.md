@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math500
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 500
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Abstract Algebra I (MATH500)
 
 ## Official Course Description
 

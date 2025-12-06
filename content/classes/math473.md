@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math473
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 473
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Algorithms (MATH473)
 
 ## Official Course Description
 

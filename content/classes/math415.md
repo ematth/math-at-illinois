@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math415
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 415
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Applied Linear Algebra (MATH415)
 
 ## Official Course Description
 

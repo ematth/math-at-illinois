@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math475
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 475
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Formal Models of Computation (MATH475)
 
 ## Official Course Description
 

@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math540
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 540
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Real Analysis (MATH540)
 
 ## Official Course Description
 

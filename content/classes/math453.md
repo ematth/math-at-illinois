@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math453
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 453
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Number Theory (MATH453)
 
 ## Official Course Description
 

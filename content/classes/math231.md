@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math231
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 231
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Calculus II (MATH231)
 
 ## Official Course Description
 

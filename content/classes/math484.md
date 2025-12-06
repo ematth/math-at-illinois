@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math484
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 484
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Nonlinear Programming (MATH484)
 
 ## Official Course Description
 

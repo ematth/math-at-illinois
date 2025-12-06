@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math213
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 213
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Basic Discrete Mathematics (MATH213)
 
 ## Official Course Description
 

@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math225
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 225
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Introductory Matrix Theory (MATH225)
 
 ## Official Course Description
 

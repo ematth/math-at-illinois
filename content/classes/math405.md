@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math405
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 405
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Teacher's Course (MATH405)
 
 ## Official Course Description
 

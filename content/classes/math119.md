@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math119
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 119
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Ideas in Geometry (MATH119)
 
 ## Official Course Description
 

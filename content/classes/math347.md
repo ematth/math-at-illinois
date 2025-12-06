@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math347
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 347
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Fundamental Mathematics (MATH347)
 
 ## Official Course Description
 

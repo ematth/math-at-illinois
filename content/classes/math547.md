@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math547
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 547
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Banach Spaces (MATH547)
 
 ## Official Course Description
 

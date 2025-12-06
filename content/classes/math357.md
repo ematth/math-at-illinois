@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math357
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 357
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Numerical Methods I (MATH357)
 
 ## Official Course Description
 

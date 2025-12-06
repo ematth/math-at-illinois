@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math584
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 584
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Methods of Combinatorics (MATH584)
 
 ## Official Course Description
 

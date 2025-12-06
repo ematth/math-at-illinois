@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math448
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 448
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Complex Variables (MATH448)
 
 ## Official Course Description
 

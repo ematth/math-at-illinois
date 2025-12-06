@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math593
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 593
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Mathematical Internship (MATH593)
 
 ## Official Course Description
 

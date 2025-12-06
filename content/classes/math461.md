@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math461
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 461
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Probability Theory (MATH461)
 
 ## Official Course Description
 

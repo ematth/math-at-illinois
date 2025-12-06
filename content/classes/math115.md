@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math115
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 115
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Preparation for Calculus (MATH115)
 
 ## Official Course Description
 

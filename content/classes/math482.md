@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math482
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 482
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Linear Programming (MATH482)
 
 ## Official Course Description
 
