@@ -1,6 +1,6 @@
 import os, pandas as pd
 
-courses = pd.read_csv('courses.csv')
+courses = pd.read_csv('courses_spring.csv')
 courses = courses.dropna()
 
 for index, row in courses.iterrows():
