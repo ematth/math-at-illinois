@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { FileTrieNode } from "./quartz/util/fileTrie"
 import GPAWidget from "./quartz/components/GPAWidget"
 
 // components shared across all pages
@@ -43,7 +44,13 @@ export const defaultContentPageLayout: PageLayout = {
         // { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      mapFn: (node: FileTrieNode) => {
+        if ((node.data as any)?.hasBlank) {
+          node.displayName = `${node.displayName} (WIP)`
+        }
+      },
+    }),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -67,7 +74,13 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      mapFn: (node: FileTrieNode) => {
+        if ((node.data as any)?.hasBlank) {
+          node.displayName = `${node.displayName} (WIP)`
+        }
+      },
+    }),
   ],
   right: [],
 }
